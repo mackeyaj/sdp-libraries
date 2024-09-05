@@ -1,5 +1,5 @@
 void call() {
     node() {
-    sh 'echo "we\'re here"'
+    sh 'printenv'
     }
 }
